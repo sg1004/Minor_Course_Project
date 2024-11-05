@@ -4,13 +4,13 @@ This project explores the training of machine learning models with varying learn
 
 # Features:
 
-#### Model Training: 
+### Model Training: 
 Train models with different learning rates and epochs to analyze performance.
 
-#### Data Analysis: 
+### Data Analysis: 
 Visualize and interpret results to draw insights.
 
-#### Notebook Files: 
+### Notebook Files: 
 Contains organized Jupyter Notebooks for reproducibility.
 
 # Technologies Used:
