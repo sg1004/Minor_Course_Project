@@ -1,6 +1,6 @@
 # Emotion Detection using CNN:
 
-This project explores the training of machine learning models with varying learning rates and epochs to understand their effect on model performance.
+This project explores the training of machine learning models with varying learning rates and epochs to understand their effect on model performance. The model gives the information about emotion detection of already existing fer2013.csv dataset.
 
 # Features:
 
